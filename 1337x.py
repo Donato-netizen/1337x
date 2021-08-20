@@ -34,7 +34,7 @@ class Search1337x:
     """
 
     # links
-    _BASE = "https://1337x.to"
+    _BASE = "https://1337x.tw"
     _NORMAL_SEARCH = _BASE + "/search/{}/{}/"
     _SORT_SEARCH = _BASE + "/sort-search/{}/{}/"
     _CATEGORY_SEARCH = _BASE + "/category-search/{}/{}/"
